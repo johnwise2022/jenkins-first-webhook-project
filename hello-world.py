@@ -1,1 +1,1 @@
-print('For happy and free future')
+print('For happy and free future for everyone')
