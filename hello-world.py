@@ -1,1 +1,1 @@
-print('Hello my dear way friends')
+print('For happy and free future')
