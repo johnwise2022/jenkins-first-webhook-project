@@ -1,1 +1,1 @@
-print('wait us ey World')
+print('wait us people and world')
